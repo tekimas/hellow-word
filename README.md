@@ -1,6 +1,6 @@
 # hellow-word
 Just trying out **github**
 
-## this is a subtitle
+### dodge coin to the mooooooonn :rocket
 
-```this is code```
+elon tuuuuuuuuuuusk
